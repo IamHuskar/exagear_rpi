@@ -1,4 +1,4 @@
-# exgear_rpi
+# exagear_rpi
 
 sudo apt-get update
 sudo apt-get install -y bash coreutils findutils curl binfmt-support cron
